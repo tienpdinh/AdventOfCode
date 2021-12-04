@@ -17,3 +17,12 @@ get_result 0 0
 ```ocaml
 get_real_result 0 0 0
 ```
+## Day 3
+* Part 1
+```ocaml
+final_result
+```
+* Part 2
+```ocaml
+get_result_part_2
+```
