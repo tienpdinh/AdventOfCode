@@ -9,3 +9,11 @@ get_result_part_1 0 max_int
 get_result_part_2 0 max_int
 ```
 ## Day 2
+* Part 1
+```ocaml
+get_result 0 0
+```
+* Part 2
+```ocaml
+get_real_result 0 0 0
+```
